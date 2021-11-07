@@ -12,11 +12,12 @@
 <br>
 ### The second thing i choose to execute was : Bombs falling from the sky, when the player collide with the bombs, all the enemies that are on the screen are exploding. For example, here we can see the enemies, our ship, and the bomb falling. When the ship is colliding with the bomb, everything exsept the ship is being destroyed.
 <br>
-![bombs falling](https://user-images.githubusercontent.com/57447482/140648605-3fcb3020-c1eb-42a2-9bbb-ed52846e5918.png)
+![timebomber](https://user-images.githubusercontent.com/57447482/140648897-9d1e782c-63dc-449e-9867-adfdc38f582c.png)
+
 <br>
 ### I implemented it by creating prefab "TimeBomber", then i added all the relevent categories to it : 
 <br>
-![timebomber](https://user-images.githubusercontent.com/57447482/140648746-255fe71f-5c60-4d5f-a0bf-8345ef47930c.png)
+![bombs falling](https://user-images.githubusercontent.com/57447482/140648905-deb8c412-2b3d-4e41-8e94-ea095b1e6363.png)
 <br>
 ### I created a script for the spawning of the bomb, and a script for the collision with the player. Once the bomb is colliding with the player, we search for all the enemy gameObject and destrying them.
 [Link to the collision of the bomb]() 
