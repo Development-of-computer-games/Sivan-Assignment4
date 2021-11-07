@@ -6,8 +6,16 @@
 ### In order to catch the collision, I wrote in the player script under the "OnTriggerEnter2D" what to do when each of the collision is made.
 ![entercoliision](https://user-images.githubusercontent.com/57447482/140643328-6caee703-1acf-44a9-8401-0ff250d5c401.png)
 <br>
-You can see more in the script, the initialization of the objects, and the rest of the additions.
+### You can see more in the script, the initialization of the objects, and the rest of the additions.
 [Link to the script]()
 
 <br>
-# The second thing i choose to execute was : 
+### The second thing i choose to execute was : Bombs falling from the sky, when the player collide with the bombs, all the enemies that are on the screen are exploding. For example, here we can see the enemies, our ship, and the bomb falling. When the ship is colliding with the bomb, everything exsept the ship is being destroyed.
+![bombs falling](https://user-images.githubusercontent.com/57447482/140648605-3fcb3020-c1eb-42a2-9bbb-ed52846e5918.png)
+<br>
+### I implemented it by creating prefab "TimeBomber", then i added all the relevent categories to it : <br>
+![timebomber](https://user-images.githubusercontent.com/57447482/140648746-255fe71f-5c60-4d5f-a0bf-8345ef47930c.png) <br>
+### I created a script for the spawning of the bomb, and a script for the collision with the player. Once the bomb is colliding with the player, we search for all the enemy gameObject and destrying them.
+[Link to the collision of the bomb]() <br>
+[Link to the bomb spawner]()
+
