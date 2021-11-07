@@ -5,6 +5,7 @@
 ![Screenshot 2021-11-07 133350](https://user-images.githubusercontent.com/57447482/140643193-a2c213a0-5b6d-4b48-b753-be3022957cb3.png)
 ### In order to catch the collision, I wrote in the player script under the "OnTriggerEnter2D" what to do when each of the collision is made.
 ![entercoliision](https://user-images.githubusercontent.com/57447482/140643328-6caee703-1acf-44a9-8401-0ff250d5c401.png)
+<br>
 You can see more in the script, the initialization of the objects, and the rest of the additions.
 [Link to the script]()
 
