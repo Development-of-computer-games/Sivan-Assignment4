@@ -8,8 +8,6 @@
 <br>
 ### You can see more in the script, the initialization of the objects, and the rest of the additions.
 [Link to the script]()
-
-<br>
 ### The second thing i choose to execute was : Bombs falling from the sky, when the player collide with the bombs, all the enemies that are on the screen are exploding. For example, here we can see the enemies, our ship, and the bomb falling. When the ship is colliding with the bomb, everything exsept the ship is being destroyed.
 ![time bomber entities](https://user-images.githubusercontent.com/57447482/140648897-9d1e782c-63dc-449e-9867-adfdc38f582c.png)
 ### I implemented it by creating prefab "TimeBomber", then i added all the relevent categories to it : 
