@@ -7,7 +7,7 @@
 ![entercoliision](https://user-images.githubusercontent.com/57447482/140643328-6caee703-1acf-44a9-8401-0ff250d5c401.png)
 <br>
 ### You can see more in the script, the initialization of the objects, and the rest of the additions.
-[Link to the script]()
+[Link to the script](https://github.com/Development-of-computer-games/Sivan-Assignment4-SpaceShip/blob/main/Assets/Scripts/3-collisions/CollisionLogger.cs)
 ### The second thing i choose to execute was : Bombs falling from the sky, when the player collide with the bombs, all the enemies that are on the screen are exploding. For example, here we can see the enemies, our ship, and the bomb falling. When the ship is colliding with the bomb, everything exsept the ship is being destroyed.
 ![time bomber entities](https://user-images.githubusercontent.com/57447482/140648897-9d1e782c-63dc-449e-9867-adfdc38f582c.png)
 ### I implemented it by creating prefab "TimeBomber", then i added all the relevent categories to it : 
