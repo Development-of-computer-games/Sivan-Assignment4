@@ -13,6 +13,6 @@
 ### I implemented it by creating prefab "TimeBomber", then i added all the relevent categories to it : 
 ![bombs falling](https://user-images.githubusercontent.com/57447482/140648905-deb8c412-2b3d-4e41-8e94-ea095b1e6363.png)
 ### I created a script for the spawning of the bomb, and a script for the collision with the player. Once the bomb is colliding with the player, we search for all the enemy gameObject and destrying them.
-[Link to the collision of the bomb](https://github.com/Development-of-computer-games/Sivan-Assignment4-SpaceShip/blob/ddc37fdd0c68c0ad1f78ce1c5f491b92c332c5dc/Assets/TimeBomberScript.cs) , 
-[Link to the bomb spawner]()
+[Link to the bomb spawner](https://github.com/Development-of-computer-games/Sivan-Assignment4-SpaceShip/blob/ddc37fdd0c68c0ad1f78ce1c5f491b92c332c5dc/Assets/TimeBomberScript.cs) , 
+[Link to the collision of the bomb](https://github.com/Development-of-computer-games/Sivan-Assignment4-SpaceShip/blob/c1ebd74f25797e35d6ee1f9bfdfe440258753af4/Assets/DestroyOnCollideWithPlayer.cs)
 
